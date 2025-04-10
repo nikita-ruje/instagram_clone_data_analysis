@@ -1,13 +1,13 @@
 # instagram_clone_data_analysis
 
 The Instagram Clone Database is designed using SQL and consists of multiple tables to store user information, photos, likes, comments, hashtags, and more. Below are the main tables in the schema:
-•	Users: Connected to every other table in the dataset
-•	Photos: Stores image URL and the user who has posted it
-•	Comments: Stores details of comment text, user, and picture
-•	Likes: Stores details of the user who has liked the picture
-•	Follows: Stores relationship between users i.e., followers & following
-•	tags: Stores different hashtags used
-•	Photo_tags: Connects hashtags with posted pictures 
+* Users: Connected to every other table in the dataset
+* Photos: Stores image URL and the user who has posted it
+* Comments: Stores details of comment text, user, and picture
+* Likes: Stores details of the user who has liked the picture
+* Follows: Stores relationship between users i.e., followers & following
+* tags: Stores different hashtags used
+* Photo_tags: Connects hashtags with posted pictures 
 
 
 Challenges and Queries: Practical Scenarios
